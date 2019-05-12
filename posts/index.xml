@@ -6,23 +6,10 @@
     <description>Recent content in Posts on 欢迎来到古壮字信息网</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 May 2019 19:46:21 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2019 18:36:20 +0800</lastBuildDate>
     
 	<atom:link href="https://chimingxu126.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>操作说明</title>
-      <link>https://chimingxu126.github.io/posts/instruction/</link>
-      <pubDate>Sat, 11 May 2019 19:46:21 +0800</pubDate>
-      
-      <guid>https://chimingxu126.github.io/posts/instruction/</guid>
-      <description>新建 hugo new posts/xxx.md
-调试 hugo server -D
-然后访问localhost:1313
-上线 ./deploy.sh &amp;ldquo;xxx&amp;rdquo;
-引号内的文字请详细认真书写</description>
-    </item>
     
     <item>
       <title>古壮字信息网试运营公告</title>
