@@ -6,18 +6,18 @@
     <description>Recent content on 欢迎来到古壮字信息网</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 May 2019 18:18:57 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2019 18:36:20 +0800</lastBuildDate>
     
 	<atom:link href="https://chimingxu126.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>https://chimingxu126.github.io/post/test/</link>
-      <pubDate>Thu, 23 May 2019 18:18:57 +0800</pubDate>
+      <title>古壮字信息网试运营公告</title>
+      <link>https://chimingxu126.github.io/post/welcome-to-my-site/</link>
+      <pubDate>Sat, 11 May 2019 18:36:20 +0800</pubDate>
       
-      <guid>https://chimingxu126.github.io/post/test/</guid>
-      <description></description>
+      <guid>https://chimingxu126.github.io/post/welcome-to-my-site/</guid>
+      <description>首先，欢迎您来到古壮字网 本网站将于2019.5.12日起进入试运营状态，试运营期间网站将进行网站功能调试，古壮字字体添加等测试活动。 并在此期间对网站进行备案，以便于更好的传承壮族文化，保护古代壮族文献资料，进行古代壮族文献的信息化保护。 感谢关注本网站的您对传承古壮字、保护壮族文化做出的贡献！感谢殷师哲同志提供的技术支持！</description>
     </item>
     
     <item>
@@ -27,6 +27,15 @@
       
       <guid>https://chimingxu126.github.io/posts/welcome-to-my-site/</guid>
       <description>首先，欢迎您来到古壮字网 本网站将于2019.5.12日起进入试运营状态，试运营期间网站将进行网站功能调试，古壮字字体添加等测试活动。 并在此期间对网站进行备案，以便于更好的传承壮族文化，保护古代壮族文献资料，进行古代壮族文献的信息化保护。 感谢关注本网站的您对传承古壮字、保护壮族文化做出的贡献！感谢殷师哲同志提供的技术支持！</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://chimingxu126.github.io/post/test/</link>
+      <pubDate>Tue, 23 Apr 2019 18:27:10 +0800</pubDate>
+      
+      <guid>https://chimingxu126.github.io/post/test/</guid>
+      <description>123</description>
     </item>
     
   </channel>
