@@ -3,6 +3,16 @@
 *::after {
 	box-sizing: border-box;
 }
+@font-face {
+	font-family: eudcttf;
+	src: url('../font/eudcttf.woff'),
+	url('../font/eudcttf.ttf'),
+	url('../font/eudcttf.eot');
+}
+
+* {
+	font-family: eudcttf;
+}
 
 article,
 aside,
@@ -43,7 +53,7 @@ html {
 
 body {
 	margin: 0;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: eudcttf;
 	font-size: 14px;
 	font-size: .875rem;
 	line-height: 1.6;
