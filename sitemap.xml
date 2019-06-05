@@ -8,7 +8,31 @@
   </url>
   
   <url>
+    <loc>https://www.guzhuangzi.com/categories/</loc>
+    <lastmod>2019-06-05T14:13:20+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.guzhuangzi.com/post/</loc>
+    <lastmod>2019-06-05T14:13:20+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.guzhuangzi.com/tags/</loc>
+    <lastmod>2019-06-05T14:13:20+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.guzhuangzi.com/categories/%E6%96%87%E7%8C%AE%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2019-06-05T14:13:20+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.guzhuangzi.com/tags/%E6%96%87%E7%8C%AE%E6%96%B0%E9%97%BB/</loc>
     <lastmod>2019-06-05T14:13:20+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -25,12 +49,14 @@
   </url>
   
   <url>
-    <loc>https://www.guzhuangzi.com/categories/</loc>
+    <loc>https://www.guzhuangzi.com/categories/%E7%BD%91%E7%AB%99%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2019-05-11T18:36:20+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.guzhuangzi.com/tags/</loc>
+    <loc>https://www.guzhuangzi.com/tags/%E7%BD%91%E7%AB%99%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2019-05-11T18:36:20+08:00</lastmod>
     <priority>0</priority>
   </url>
   
