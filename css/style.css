@@ -4,14 +4,14 @@
 	box-sizing: border-box;
 }
 @font-face {
-	font-family: eudcttf;
-	src: url('../font/eudcttf.woff'),
-	url('../font/eudcttf.ttf'),
-	url('../font/eudcttf.eot');
+	font-family: sawndipttf;
+	src: url('../font/sawndipttf.woff'),
+	url('../font/sawndipttf.ttf'),
+	url('../font/sawndipttf.eot');
 }
 
 * {
-	font-family: eudcttf;
+	font-family: sawndipttf;
 }
 
 article,
@@ -53,7 +53,7 @@ html {
 
 body {
 	margin: 0;
-	font-family: eudcttf;
+	font-family: sawndipttf;
 	font-size: 14px;
 	font-size: .875rem;
 	line-height: 1.6;
