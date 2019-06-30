@@ -4,14 +4,14 @@
 	box-sizing: border-box;
 }
 @font-face {
-	font-family: sawndipttf;
-	src: url('../font/sawndipttf.woff'),
-	url('../font/sawndipttf.ttf'),
-	url('../font/sawndipttf.eot');
+	font-family: sawndip;
+	src: url('../font/sawndip.woff'),
+	url('../font/sawndip.ttf'),
+	url('../font/sawndip.eot');
 }
 
 * {
-	font-family: sawndipttf;
+	font-family: sawndip;
 }
 
 article,
@@ -53,7 +53,7 @@ html {
 
 body {
 	margin: 0;
-	font-family: sawndipttf;
+	font-family: sawndip;
 	font-size: 14px;
 	font-size: .875rem;
 	line-height: 1.6;
